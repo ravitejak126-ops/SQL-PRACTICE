@@ -1,6 +1,5 @@
 -- SQL Practice Answers
--- Database: Sakila
--- Source questions: Assignment_questions_1.txt
+
 
 USE sakila;
 
