@@ -1,7 +1,4 @@
 -- SQL JOIN Assignment Answers
--- Database: Sakila
--- Source: sakila_joins_assignment_4.txt
-
 USE sakila;
 
 -- 1. List all customers along with the films they have rented.
